@@ -1,0 +1,5 @@
+p{ margin: 0; }
+.vert{ color: #21c165; position: absolute; top: 50%; left: 0px; font-weight: bold; }
+/*La position absolute redéfinit l'emplacement de la zone par rapport à la fenêtre.
+Ainsi en utilisant top: 50%; left: 0px; Nous écartons notre zone de 50% du haut de site et de 0 pixel
+ du bord gauche de la fenêtre.*/

@@ -1,0 +1,8 @@
+p{ margin: 0; }
+.vert{ color: #21c165; position: relative; top: 1px; left: 30px; }
+#zone{ border: 2px solid #336699; }
+/*Lorsque la position relative est appliquée sur un élément, cet élément se place ou s'écarte par rapport à lui même,
+ il s'écarte par rapport à sa position initiale (et non pas par rapport à la div dans laquelle l'élément est contenu, 
+ ni le bord de la fenêtre).
+Ainsi en utilisant top: 1px; left: 30px; Nous l'écartons de 1 pixel du haut par rapport à sa position initiale et de 
+30 pixels de la gauche par rapport à sa position initiale. Faites des tests ! */
